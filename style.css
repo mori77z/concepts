@@ -37,7 +37,7 @@ body {
     font-family: 'Helvetica Neue Condensed Bold', Arial, sans-serif;
     font-size: 40px;
     line-height: 1;
-    letter-spacing: -1px;
+    letter-spacing: -0.5px;
     color: black;
     text-decoration: none;
 }
@@ -50,8 +50,8 @@ body {
 
 .about-link {
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 36px;
-    line-height: 1;
+    font-size: 30px;
+    line-height: 0.9;
     color: black;
     text-decoration: none;
 }
