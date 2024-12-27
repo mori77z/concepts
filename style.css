@@ -31,23 +31,16 @@ body {
 @font-face {
     font-family: 'Helvetica Neue Condensed Bold';
     src: url('https://moritzgauss.com/concepts/Helvetica-Neue-Condensed-Bold.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
 }
 
-.logo a {
+.logo-link {
     font-family: 'Helvetica Neue Condensed Bold', Arial, sans-serif;
     font-size: 40px;
-    font-weight: normal;
-    line-height: 36px;
     color: black;
-    margin-top: 10px;
-    white-space: nowrap;
-    box-sizing: border-box; 
     text-decoration: none;
 }
 
-.logo a:hover {
+.logo-link:hover {
     font-family: Times New Roman, serif;
     font-style: italic;
     padding-right: 4px;
@@ -56,12 +49,7 @@ body {
 .about-link {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 36px;
-    font-weight: normal;
-    line-height: 36px;
     color: black;
-    margin-top: 10px;
-    white-space: nowrap;
-    box-sizing: border-box; 
     text-decoration: none;
 }
 
