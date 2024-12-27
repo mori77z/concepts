@@ -28,7 +28,15 @@ body {
     width: 100%;
 }
 
+@font-face {
+    font-family: 'Helvetica Neue Condensed Bold';
+    src: url('https://github.com/mori77z/assets/blob/main/Helvetica-Neue-Condensed-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .logo a {
+    font-family: 'Helvetica Neue Condensed Bold', sans-serif;
     font-size: 30px;
     font-weight: normal;
     line-height: 36px;
