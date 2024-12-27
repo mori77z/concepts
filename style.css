@@ -53,7 +53,7 @@ body {
     padding-right: 4px;
 }
 
-.about a {
+.about-link a {
     font-size: 36px;
     font-weight: normal;
     line-height: 36px;
@@ -64,7 +64,7 @@ body {
     text-decoration: none;
 }
 
-.about a:hover {
+.about-link a:hover {
     font-family: Times New Roman, serif;
     font-style: italic;
     padding-right: 4px;
