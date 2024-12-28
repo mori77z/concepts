@@ -303,6 +303,12 @@ nav a.active {
     .logo-link {
         font-size: 64px;
     }
+    .content {
+        margin-left: 20px;
+    }
+    .arrows-wrapper {
+        padding: 10px 20px 0;
+    }
     .about-link {
         font-size: 48px;
     }
