@@ -147,7 +147,7 @@ nav a.active {
 
 .info a:link {
     color: black;
-    font-family: Times New Roman, serif;
+    font-family: Times, serif;
     text-decoration: underline;
     margin: 0;
 }
@@ -307,7 +307,6 @@ nav a.active {
     }
     .logo-link {
         font-size: 64px;
-        letter-spacing: -4px;
     }
     .content {
         margin-left: 20px;
